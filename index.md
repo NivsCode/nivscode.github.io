@@ -1,31 +1,21 @@
-## Welcome to GitHub Pages
+## Niv's code
 
-You can use the [editor on GitHub](https://github.com/NivsCode/nivscode.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hi there, My name is niv! I am excited you found me here on World wide web :D
+I write about everything that excites me about code, cs and everything else.
+Keep in mind, I am still a novice. I am open to suggestions or correcting any factual errors you find here.
+Please be nice.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### A little about myself
 
-### Markdown
+I am into machine learning, web-app development and solving problems. I also like learning new algorithms and new words. You can probably find me on /r/eyebleach when I am not on my computer or playing with my pup.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Disclaimer
 
-# Header 1
-## Header 2
-### Header 3
+Views and opinions expressed here are my own. None of the content published here is intended to malign any religion, ethnic group, club, organization, company, individual or anyone or anything.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
+[Link](url) and ![Image](src)
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
