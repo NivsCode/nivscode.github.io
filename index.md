@@ -1,9 +1,6 @@
 ## Niv's code
 
-Hi there, My name is niv! I am excited you found me here on World wide web :D
-I write about everything that excites me about code, cs and everything else.
-Keep in mind, I am still a novice. I am open to suggestions or correcting any factual errors you find here.
-Please be nice.
+Hi!
 
 ### A little about myself
 
